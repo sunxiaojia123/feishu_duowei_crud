@@ -1,0 +1,2 @@
+lark-oapi
+pydantic==1.10.6
